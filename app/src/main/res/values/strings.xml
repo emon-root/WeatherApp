@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="CHANNEL_ID">Weather App</string>
+    <string name="CHANNEL_DESCRIPTION">Weather App</string>
+</resources>
